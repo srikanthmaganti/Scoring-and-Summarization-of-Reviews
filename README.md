@@ -6,4 +6,4 @@
 
 3.Calculated Machine Critique Score(MCS) by making use of some columns in dataset
 
-for more details, you can check in project report.
+for more details, you can check in project report
